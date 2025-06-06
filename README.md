@@ -2,7 +2,7 @@
 
 Your all-in-one desktop tool to stay productive every single day — with tasks, quotes, weather updates, notifications, and basic stats!
 
-![GUI Screenshot](screenshot.png)
+![GUI Screenshot]("C:\Users\rupar\OneDrive\Pictures\Screenshots\dashboard.png")
 
 ---
 
